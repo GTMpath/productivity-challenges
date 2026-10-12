@@ -523,7 +523,7 @@ _________________________________
 
 ## 14. The Hot Spot Challenge
 
-**Time:** 10 minutes | **Energy:** 7/10 | **Value:** 3/10
+**Time:** 10 minutes | **Energy:** 7/10 | **Value:** 7/10
 
 ### What You'll Get Out of It
 

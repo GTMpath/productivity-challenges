@@ -36,9 +36,9 @@ Autopilot areas get capped hours and two yes/no questions.
 |------|:---:|:---:|:---:|
 | [[Side Commitment One]] | | | |
 
-## Life hotspots
+## Hot spots
 
-Scores are in [[Hotspots Dashboard]].
+The list is in [[Hotspots Dashboard]].
 
 ---
 

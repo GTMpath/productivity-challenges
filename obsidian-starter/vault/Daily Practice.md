@@ -1,6 +1,6 @@
 # Daily Practice
 
-> This is a daily and weekly routine built from Chris Bailey's *The Productivity Project*, with a few additions: the weekly hours estimate per work area, the daily energy number, and the split between active and autopilot areas. The 22 challenges are in the repo this vault came from, and you do not need to finish them.
+> This is a daily and weekly routine built from Chris Bailey's *The Productivity Project*, with a few additions: the weekly hours estimate and feeling score per work area, the daily energy number, and the split between active and autopilot areas. The book does not score hot spots, and neither does this vault. The 22 challenges are in the repo this vault came from, and you do not need to finish them.
 
 ## Every day: 10 to 15 minutes of overhead
 
@@ -12,7 +12,7 @@
 
 ## Every week: 30 minutes on maintenance day
 
-Maintenance day is the day you batch the week's chores, and the review happens on the same day. Empty your head onto the page, then read the week's wins. Scan your hot spots list with your to-do list and calendar open, and ask which one you neglected and what should go on your radar for the next week or two. Estimate how many hours each work area got, using the links on the week's daily threes and a look at your calendar. Score the life hotspots and your active work areas, and read the hours next to the scores. Answer the two autopilot questions. Finish by writing next week's three and the one thing you are saying no to.
+Maintenance day is the day you batch the week's chores, and the review happens on the same day. Empty your head onto the page, then read the week's wins. Scan your hot spots list with your to-do list and calendar open, and ask which one you neglected and what should go on your radar for the next week or two. Estimate how many hours each work area got, using the links on the week's daily threes and a look at your calendar. Give each active work area a 1 to 5 for how you feel about it, and read the hours next to those scores. Answer the two autopilot questions. Finish by writing next week's three and the one thing you are saying no to.
 
 ## Active and autopilot work areas
 

@@ -7,7 +7,7 @@ A small Obsidian vault for running *The Productivity Project* as a daily and wee
 | File | What it is for |
 |------|----------------|
 | `Templates/Daily Note.md` | Brain dump, the day's three, tasks, end-of-day reflection, and two properties at the top for energy and how many of the three got done |
-| `Templates/Weekly Review.md` | Hotspot scores, hours per work area, next week's three |
+| `Templates/Weekly Review.md` | The hot spots scan, hours per work area, next week's three |
 | `Now.md` | One page showing where things stand this week |
 | `Hotspots/` | Your hot spots list on one page, a page per hot spot that collects its history, and three example work area pages |
 | `Accomplishments.md` | One win a day |
@@ -70,7 +70,7 @@ A new vault opened this way is already configured, so skip to "Make it yours". F
 5. Open `Hotspots/Hotspots Dashboard.md` and write a few items under each hot spot: the things in that part of your life that need your time. This takes about ten minutes, and the list should stay short enough to scan in a minute.
 6. If you have more or fewer than three areas, add or remove the matching properties in the Weekly Review template, the row in the `CLAUDE.md` table, the row in the tables in `Templates/Weekly Review.md` and `Now.md`, and the line under Career in `Hotspots/Hotspots Dashboard.md`.
 
-The seven life hotspots come from the book. To add one, create a page for it in `Hotspots/`, then add a section and a score row to the dashboard, a row to the Weekly Review table, and a `life_` property at the top of the Weekly Review template.
+The seven life hotspots come from the book. To add one, create a page for it in `Hotspots/`, then add a section for it to the dashboard.
 
 ## Use it
 
@@ -78,7 +78,7 @@ The seven life hotspots come from the book. To add one, create a page for it in 
 
 **Each evening.** Fill in End of Day and add one line to `Accomplishments.md`. Then type your energy out of 10 and how many of your three got done into the two properties at the top of the note.
 
-**Once a week.** Right-click the `Reviews` folder, choose **New note**, and name it for the week, such as `2026-W42`. Open the command palette (Cmd or Ctrl + P), run **Templates: Insert template**, and pick Weekly Review. Scan your hot spots list, estimate the week's hours per work area from your daily threes and your calendar, score each hot spot, and write next week's three. Then update `Now.md`.
+**Once a week.** Right-click the `Reviews` folder, choose **New note**, and name it for the week, such as `2026-W42`. Open the command palette (Cmd or Ctrl + P), run **Templates: Insert template**, and pick Weekly Review. Scan your hot spots list, estimate the week's hours per work area from your daily threes and your calendar, and write next week's three. Then update `Now.md`.
 
 ## Optional: Claude Code skills
 

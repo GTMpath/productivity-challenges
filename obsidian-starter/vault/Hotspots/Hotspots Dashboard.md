@@ -42,18 +42,4 @@
 |----------|:---:|:---:|
 | | | |
 
-## Current scores
-
-> 1 = neglected, 3 = maintained, 5 = thriving. Each weekly review is also saved as a dated note in `Reviews/`.
-
-| Hot spot | Score /5 |
-|----------|:---:|
-| [[Mind]] | |
-| [[Body]] | |
-| [[Emotions]] | |
-| [[Career]] | |
-| [[Finances]] | |
-| [[Relationships]] | |
-| [[Fun]] | |
-
 *Last reviewed:*

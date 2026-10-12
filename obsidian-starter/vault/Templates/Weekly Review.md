@@ -1,12 +1,5 @@
 ---
 week: "{{date:GGGG-[W]WW}}"
-life_mind:
-life_body:
-life_emotions:
-life_career:
-life_finances:
-life_relationships:
-life_fun:
 score_area_one:
 score_area_two:
 hours_area_one:
@@ -41,21 +34,9 @@ hours_side_one:
 
 **What goes on my radar for the next week or two?**
 
-> Then score each one. 1 = neglected, 3 = maintained, 5 = thriving. Do not score everything a 3.
-
-| Hotspot | Score | One line |
-|---------|:---:|----------|
-| [[Mind]] | | |
-| [[Body]] | | |
-| [[Emotions]] | | |
-| [[Career]] | | |
-| [[Finances]] | | |
-| [[Relationships]] | | |
-| [[Fun]] | | |
-
 ## 4. Work areas
 
-> Estimate the hours once a week: look at which area each of the week's daily threes was linked to, and at your calendar. The score is how you feel about the area, not how busy it was.
+> Estimate the hours once a week: look at which area each of the week's daily threes was linked to, and at your calendar. The 1 to 5 score is optional and is not from the book: it records how you feel about the area, not how busy it was.
 
 | Area | Hours | Feeling /5 | One line |
 |------|:---:|:---:|----------|

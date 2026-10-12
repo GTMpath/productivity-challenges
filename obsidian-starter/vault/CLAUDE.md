@@ -20,7 +20,7 @@ Edit this table once. Each `key` appears as `hours_<key>` (plus `score_<key>` fo
 | area_two | Work Area Two | active |
 | side_one | Side Commitment One | autopilot |
 
-- **active**: gets a weekly hours total and a 1-5 feeling score.
+- **active**: gets a weekly hours estimate and an optional 1-5 feeling score. Life hot spots are never scored; the book asks only for a list that is scanned weekly.
 - **autopilot**: gets hours against a weekly cap and two yes/no questions (does someone need an answer from me; is anything broken or costing money). No score.
 
 ## What gets logged, and where
@@ -31,7 +31,7 @@ Edit this table once. Each `key` appears as `hours_<key>` (plus `score_<key>` fo
 | Energy 1-10, top-3 done count | `Daily/YYYY-MM-DD.md` frontmatter | End of day |
 | Hours per work area, estimated in a weekly retro from the week's tagged Top 3 items and the owner's calendar | `Reviews/YYYY-Www.md` frontmatter | Maintenance day |
 | One win per day | `Accomplishments.md` (newest first) | End of day |
-| Life hotspot scores, work area scores and hour totals, the week's 3, the intentional no | `Reviews/YYYY-Www.md` | Maintenance day |
+| The hot spots scan (what was neglected, what goes on the radar), work area hours and optional feeling scores, the week's 3, the intentional no | `Reviews/YYYY-Www.md` | Maintenance day |
 | The hot spots list: the few things that belong under each area of life, plus optional weekly timeboxes | `Hotspots/Hotspots Dashboard.md` | Built once, scanned and adjusted at each weekly review |
 | Current concern, the number the owner watches, open decisions, dated log | `Hotspots/Work/*.md` and `Hotspots/*.md` | When it changes |
 | Current state snapshot | `Now.md` | Rewritten at wrap-up and weekly review |

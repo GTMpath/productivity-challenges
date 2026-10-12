@@ -9,13 +9,6 @@
     "hours_area_two": "number",
     "hours_side_one": "number",
     "score_area_one": "number",
-    "score_area_two": "number",
-    "life_mind": "number",
-    "life_body": "number",
-    "life_emotions": "number",
-    "life_career": "number",
-    "life_finances": "number",
-    "life_relationships": "number",
-    "life_fun": "number"
+    "score_area_two": "number"
   }
 }
