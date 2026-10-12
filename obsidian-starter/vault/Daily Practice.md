@@ -12,7 +12,7 @@
 
 ## Every week: 30 minutes on maintenance day
 
-Maintenance day is the day you batch the week's chores, and the review happens on the same day. Empty your head onto the page, then read the week's wins. Estimate how many hours each work area got, using the links on the week's daily threes and a look at your calendar. Score the life hotspots and your active work areas, and read the hours next to the scores. Answer the two autopilot questions. Finish by writing next week's three and the one thing you are saying no to.
+Maintenance day is the day you batch the week's chores, and the review happens on the same day. Empty your head onto the page, then read the week's wins. Scan your hot spots list with your to-do list and calendar open, and ask which one you neglected and what should go on your radar for the next week or two. Estimate how many hours each work area got, using the links on the week's daily threes and a look at your calendar. Score the life hotspots and your active work areas, and read the hours next to the scores. Answer the two autopilot questions. Finish by writing next week's three and the one thing you are saying no to.
 
 ## Active and autopilot work areas
 
@@ -30,4 +30,4 @@ An autopilot area is a commitment you want kept at a decent standard without muc
 | #16 Notification | It stops your phone and laptop interrupting the prime-time block. | 5 to 30 min |
 | #22 Sleeping | A fixed bedtime protects the next day's energy. | 5 min |
 
-The routine above already covers #3, #7, #9, #10, #11, #13, #14 and #17.
+The routine above already covers #3, #7, #9, #10, #11, #13 and #17. It covers #14 too once you have filled in your hot spots list.

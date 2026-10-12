@@ -31,9 +31,17 @@ hours_side_one:
 
 **What got in the way:**
 
-## 3. Life hotspots
+## 3. Scan your hot spots
 
-> 1 = neglected, 3 = maintained, 5 = thriving. Do not score everything a 3.
+> Open [[Hotspots Dashboard]] with your to-do list and calendar next to it, and read the list top to bottom.
+
+**Which hot spot did I neglect?**
+
+**Any threat or opportunity in one of them?**
+
+**What goes on my radar for the next week or two?**
+
+> Then score each one. 1 = neglected, 3 = maintained, 5 = thriving. Do not score everything a 3.
 
 | Hotspot | Score | One line |
 |---------|:---:|----------|

@@ -1,29 +1,59 @@
-# Hotspots Dashboard
+# Hot Spots
 
-> The areas of your life where your time and energy go. Current scores only; each weekly review is saved as a dated note in `Reviews/`.
+> One list of the areas of your life and the few things that belong in each. Keep it short enough to scan in a minute, and scan it at every weekly review. Chris Bailey adapted the idea from J.D. Meier's *Getting Results the Agile Way*.
 
-## Life
+## The list
 
-| Hotspot | Current focus | Score /5 |
-|---------|---------------|:---:|
-| [[Mind]] | | |
-| [[Body]] | | |
-| [[Emotions]] | | |
-| [[Career]] | | |
-| [[Finances]] | | |
-| [[Relationships]] | | |
-| [[Fun]] | | |
+### [[Mind]]
+> What you are learning, reading or thinking about.
+-
 
-1 = neglected, 3 = maintained, 5 = thriving.
+### [[Body]]
+> Exercise, food, sleep.
+-
 
-## Work
+### [[Emotions]]
+> What keeps you steady, and what is weighing on you.
+-
 
-> [[Career]] split into the areas you are responsible for.
+### [[Career]]
+> Your work areas, plus anything else your job asks of you.
+- [[Work Area One]] (active)
+- [[Work Area Two]] (active)
+- [[Side Commitment One]] (autopilot)
 
-| Area | Type | Tracked how |
-|------|------|-------------|
-| [[Work Area One]] | Active | Weekly hours and a 1 to 5 feeling score |
-| [[Work Area Two]] | Active | Weekly hours and a 1 to 5 feeling score |
-| [[Side Commitment One]] | Autopilot | Hours against a cap, plus two yes/no questions |
+### [[Finances]]
+> Income, spending, savings, anything you are putting off.
+-
+
+### [[Relationships]]
+> The people who should get real time from you.
+-
+
+### [[Fun]]
+> Things you do with no agenda.
+-
+
+## Timeboxes
+
+> Optional. A minimum stops a hot spot being neglected, and a maximum makes you use the time better. Fill in only the ones that matter to you.
+
+| Hot spot | Minimum hours a week | Maximum hours a week |
+|----------|:---:|:---:|
+| | | |
+
+## Current scores
+
+> 1 = neglected, 3 = maintained, 5 = thriving. Each weekly review is also saved as a dated note in `Reviews/`.
+
+| Hot spot | Score /5 |
+|----------|:---:|
+| [[Mind]] | |
+| [[Body]] | |
+| [[Emotions]] | |
+| [[Career]] | |
+| [[Finances]] | |
+| [[Relationships]] | |
+| [[Fun]] | |
 
 *Last reviewed:*

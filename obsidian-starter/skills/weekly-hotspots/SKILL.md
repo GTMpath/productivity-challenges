@@ -12,12 +12,13 @@ Run from the vault root. About 30 minutes.
 - Read `CLAUDE.md` (work areas table), `Now.md`, and the most recent `Reviews/YYYY-Www.md`.
 - Read this week's `Daily/` notes. Group the Top 3 items by hotspot wikilink and compute the top-3 completion rate from `top3_done`. Daily notes do not carry hours.
 - Read this week's lines in `Accomplishments.md`.
+- Read `Hotspots/Hotspots Dashboard.md`. If the list under any hot spot is empty, build it first: for each hot spot ask what belongs there and write a few short bullets in the owner's words. Keep the whole list scannable in a minute. This is the book's Hot Spot Challenge (#14) and takes about 10 minutes.
 
 ## Steps
 
 1. **Empty the head.** Ask for everything on the owner's mind going into the week. Capture verbatim.
 2. **Last week.** Read back the wins. Go through last week's 3: did each happen? Ask what got in the way.
-3. **Life hotspots.** Score each 1-5 (1 neglected, 3 maintained, 5 thriving) with one question each: Mind (reading, learning, quiet thinking?), Body (movement, food, sleep?), Emotions (dominant tone, anything unprocessed?), Career (what moved, what stalled?), Finances (anything ignored?), Relationships (real time with the people who matter?), Fun (anything with no agenda?).
+3. **Scan the hot spots.** Read the list back, hot spot by hot spot, with the owner's to-do list and calendar open. Ask which one was neglected, whether there is a threat or an opportunity in any of them, and what goes on the radar for the next week or two. Add any new item the owner mentions to the list. If timeboxes are set, compare them with the week. Then score each 1-5 (1 neglected, 3 maintained, 5 thriving) with one question each: Mind (reading, learning, quiet thinking?), Body (movement, food, sleep?), Emotions (dominant tone, anything unprocessed?), Career (what moved, what stalled?), Finances (anything ignored?), Relationships (real time with the people who matter?), Fun (anything with no agenda?).
 4. **Hours retro.** Hours are estimated once a week, not logged daily. Build the estimate from two sources, then let the owner correct it:
    - The week's Top 3 items in the daily notes, grouped by their hotspot wikilink (count of items per work area, and how many were done).
    - Their calendar for the week: ask for screenshots of their calendar's week view, or read it through a calendar connector if one is connected.

@@ -32,7 +32,8 @@ Edit this table once. Each `key` appears as `hours_<key>` (plus `score_<key>` fo
 | Hours per work area, estimated in a weekly retro from the week's tagged Top 3 items and the owner's calendar | `Reviews/YYYY-Www.md` frontmatter | Maintenance day |
 | One win per day | `Accomplishments.md` (newest first) | End of day |
 | Life hotspot scores, work area scores and hour totals, the week's 3, the intentional no | `Reviews/YYYY-Www.md` | Maintenance day |
-| What the owner is responsible for, current concern, the number they watch, open decisions | `Hotspots/*.md` and `Hotspots/Work/*.md` | When it changes |
+| The hot spots list: the few things that belong under each area of life, plus optional weekly timeboxes | `Hotspots/Hotspots Dashboard.md` | Built once, scanned and adjusted at each weekly review |
+| Current concern, the number the owner watches, open decisions, dated log | `Hotspots/Work/*.md` and `Hotspots/*.md` | When it changes |
 | Current state snapshot | `Now.md` | Rewritten at wrap-up and weekly review |
 
 ## Rules

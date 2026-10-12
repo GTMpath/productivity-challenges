@@ -1,10 +1,6 @@
 # Career
 
-## What belongs here
-
-
-## Current focus
-
+> What belongs here is on the [[Hotspots Dashboard]]. This page collects the history: your daily notes and weekly reviews link back to it.
 
 ## Open decisions
 -
