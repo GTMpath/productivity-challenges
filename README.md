@@ -195,6 +195,7 @@ If you actually do these challenges, here's what changes:
 
 - **`all-challenges.md`** — Every challenge in one document, ready to work through
 - **`bonus-tips.md`** — 9 ways to be kinder to yourself while staying productive
+- **`obsidian-starter/`**: a ready-made Obsidian vault for running the daily and weekly routine, with templates and optional Claude Code skills. Setup takes about 20 minutes. See [`obsidian-starter/README.md`](obsidian-starter/README.md)
 
 ---
 
